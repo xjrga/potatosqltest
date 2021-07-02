@@ -1,0 +1,4 @@
+#Create new database schema
+1. Verify generated code compiles properly using SqlWorkbench for all three database schemas
+
+#

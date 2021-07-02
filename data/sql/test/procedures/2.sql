@@ -1,0 +1,6 @@
+CREATE PROCEDURE DatabaseSchema_DummyProcedure () 
+MODIFIES SQL DATA 
+BEGIN ATOMIC 
+DECLARE temp_id INTEGER;
+SET temp_id = IDENTITY();
+END

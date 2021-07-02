@@ -1,0 +1,4 @@
+urlid potatosqltest
+url jdbc:hsqldb:hsql://localhost:9002/potatosqltest;shutdown=true;
+username sa
+password

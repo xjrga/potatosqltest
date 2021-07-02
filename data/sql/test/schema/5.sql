@@ -1,0 +1,1 @@
+ALTER TABLE AddressUsage ADD CONSTRAINT R1_Address_AddressUsage FOREIGN KEY ( AddressId ) REFERENCES Address ( AddressId ) ON DELETE CASCADE;
